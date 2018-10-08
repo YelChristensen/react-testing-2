@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieResults matches the snapshot 1`] = `
+<div>
+  <ul>
+    <li>
+      <h2>
+        We love testing
+         - 
+        2017
+      </h2>
+      <div>
+        <span>
+          Movie has 
+          0
+           likes
+        </span>
+        <button
+          onClick={[Function]}
+        >
+          Like
+        </button>
+      </div>
+      <img
+        src="xx"
+      />
+    </li>
+    <li>
+      <h2>
+        We love resting
+         - 
+        2018
+      </h2>
+      <div>
+        <span>
+          Movie has 
+          0
+           likes
+        </span>
+        <button
+          onClick={[Function]}
+        >
+          Like
+        </button>
+      </div>
+      <img
+        src="XXX"
+      />
+    </li>
+  </ul>
+</div>
+`;
